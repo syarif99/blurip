@@ -1,11 +1,15 @@
 Stream selection tab:
 
-<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/mHQtBV6Fn6pK3KM2fFR8_w?feat=embedwebsite"><img src="http://lh5.ggpht.com/_NvtqqG41QeE/S1V1lZamq6I/AAAAAAAAABk/BPZYrqSKQcA/s400/blurip_stream.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/CzTe9IXcYMXFRxoxjF_ljA?feat=embedwebsite"><img src="http://lh6.ggpht.com/_NvtqqG41QeE/S1miRnk2U2I/AAAAAAAAACo/bQkKlsO8xcM/s800/blurip_stream.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
 
 Processing tab:
 
-<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/40yrp09_JXK4nNDKalOWaA?feat=embedwebsite"><img src="http://lh4.ggpht.com/_NvtqqG41QeE/S1V1lS-RVBI/AAAAAAAAABo/OyccbZi3vmM/s400/blurip_process.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/mwVzwlPwj9IxUzyKmXn0aQ?feat=embedwebsite"><img src="http://lh4.ggpht.com/_NvtqqG41QeE/S1miR0PPAAI/AAAAAAAAACs/Pk-CMiBpKVw/s800/blurip_process.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
 
 Settings tab:
 
-<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/hAJc50LCBlmbUuvBMVsUkg?feat=embedwebsite"><img src="http://lh6.ggpht.com/_NvtqqG41QeE/S1V1lhIew9I/AAAAAAAAABs/zG0DYZShCZ0/s400/blurip_settings.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/HW_ZeYWsLHL9gEu6L0FBZg?feat=embedwebsite"><img src="http://lh6.ggpht.com/_NvtqqG41QeE/S1miR5ddpgI/AAAAAAAAACw/_2THkEycJRw/s800/blurip_settings.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
+
+Encoding settings tab:
+
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/Qf6cBLqQTcVZvrT8KuS2pA?feat=embedwebsite"><img src="http://lh5.ggpht.com/_NvtqqG41QeE/S1miSDk_bII/AAAAAAAAAC0/TQsZggdcQB0/s800/blurip_encodingsettings.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
