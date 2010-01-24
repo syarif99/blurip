@@ -1,2 +1,20 @@
 v0.4.0
  - Added support for 2-pass profiles
+ - Bugfix: Subtitles were not muxed
+ - Bugfix: Stream number for subtitles in Sub folder not incremented
+
+v0.3.9
+ - Added support for *.m2ts files
+
+v0.3.8
+ - Option to use -core for DTS-HD tracks
+ - Quotes around all filenames
+
+v0.3.7
+ - Removed MediaInfoWrapper - used interface form MediaInfoDll
+ - Fixed typo for crop modes
+ - Log windows for each step
+ - Copy subtitles in same order as in streamlist
+
+v0.3.6
+ - First public release
