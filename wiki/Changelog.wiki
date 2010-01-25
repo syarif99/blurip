@@ -1,20 +1,25 @@
+v0.4.1
+ - Added AviSynth profiles<br>
+ - Support for muxing untouched video<br>
+ - Support for 720p resizing<br>
+
 v0.4.0
- - Added support for 2-pass profiles
- - Bugfix: Subtitles were not muxed
- - Bugfix: Stream number for subtitles in Sub folder not incremented
+ - Added support for 2-pass profiles<br>
+ - Bugfix: Subtitles were not muxed<br>
+ - Bugfix: Stream number for subtitles in Sub folder not incremented<br>
 
 v0.3.9
- - Added support for *.m2ts files
+ - Added support for *.m2ts files<br>
 
 v0.3.8
- - Option to use -core for DTS-HD tracks
- - Quotes around all filenames
+ - Option to use -core for DTS-HD tracks<br>
+ - Quotes around all filenames<br>
 
 v0.3.7
- - Removed MediaInfoWrapper - used interface form MediaInfoDll
- - Fixed typo for crop modes
- - Log windows for each step
- - Copy subtitles in same order as in streamlist
+ - Removed MediaInfoWrapper - used interface form MediaInfoDll<br>
+ - Fixed typo for crop modes<br>
+ - Log windows for each step<br>
+ - Copy subtitles in same order as in streamlist<br>
 
 v0.3.6
- - First public release
+ - First public release<br>
