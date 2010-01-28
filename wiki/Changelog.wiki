@@ -1,3 +1,9 @@
+v0.4.2
+ - Added option to downsample AC3 & DTS tracks<br>
+ - Added DTS Hi-Res to dts audio tracks<br>
+ - Resized GUI (smaller)<br>
+ - Added some file existence checks<br>
+
 v0.4.1
  - Added AviSynth profiles<br>
  - Support for muxing untouched video<br>
