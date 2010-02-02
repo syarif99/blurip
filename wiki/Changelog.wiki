@@ -1,3 +1,12 @@
+v0.4.3
+ - Option to save log to file (right click in log window)<br>
+ - Option to start AutoCrop window minimized<br>
+ - Show encoding progress in title/taskbar icon text<br>
+ - Fix for empty profiles on first start<br>
+ - Option to only mux forced subs into mkv<br>
+ - Option to copy all subs to 'Subs' folder<br>
+ - Option to copy all subs but forced to 'Subs' folder<br>
+
 v0.4.2
  - Added option to downsample AC3 & DTS tracks<br>
  - Added DTS Hi-Res to dts audio tracks<br>
