@@ -1,3 +1,8 @@
+v0.4.4
+ - Load/save projects<br>
+ - Queue system<br>
+ - Changed avs input source selection<br>
+
 v0.4.3
  - Option to save log to file (right click in log window)<br>
  - Option to start AutoCrop window minimized<br>
