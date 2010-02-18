@@ -1,3 +1,11 @@
+v0.4.5
+ - DGDecNv support<br>
+ - Option to use untouched audio<br>
+ - Option to shutdown after queue<br>
+ - Option to convert DTS to AC3<br>
+ - More subtitle mux/copy options<br>
+ - Recognize more Ac3 types<br>
+
 v0.4.4
  - Load/save projects<br>
  - Queue system<br>
