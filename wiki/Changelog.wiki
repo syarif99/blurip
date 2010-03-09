@@ -1,3 +1,14 @@
+v0.4.6
+ - Show return codes of all external tools<br>
+ - Do not select AC3 surround tracks if other tracks are available<br>
+ - Use DGMultiSource instead of CuvidServer<br>
+ - If "delete input files" is selected, index files are deleted<br>
+ - Added LoadPlugin command to avs files<br>
+ - Updated MediaInfo.dll<br>
+ - Moved shutdown checkbox from tab control to mainform (to allow changes while queue is running)<br>
+ - set chapter language correctly<br>
+ - Set framerate based on string parsing if mediainfo fails<br>
+
 v0.4.5
  - DGDecNv support<br>
  - Option to use untouched audio<br>
