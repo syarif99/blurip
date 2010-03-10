@@ -1,3 +1,6 @@
+v0.4.6.1
+ - Removed check for CuvidServer.exe<br>
+
 v0.4.6
  - Show return codes of all external tools<br>
  - Do not select AC3 surround tracks if other tracks are available<br>
