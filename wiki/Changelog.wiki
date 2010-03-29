@@ -1,3 +1,8 @@
+v0.4.7
+ - Code rewrite to allow gui redesign later<br>
+ - Fixed some bugs in stream selection<br>
+ - Delete index files if "Delete demuxed files" is checked<br>
+
 v0.4.6.1
  - Removed check for CuvidServer.exe<br>
 
