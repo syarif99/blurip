@@ -1,3 +1,16 @@
+v0.4.8
+ - Split almost all processing steps into seperate DLLs<br>
+ - Support for 64 bit x264 using avs2yuv<br>
+ - Improved subtitle processing (faster/split tracks that contain normal&forced subs into 2 seperate tracks)<br>
+ - Added bitrate calculator for 2-pass profiles (not using any overhead calculation yet)<br>
+ - Added a lot of new default profiles<br>
+ - Advanced options for audio & video tracks (on stream selection tab)<br>
+   - Set output format for each audio track<br>
+   - Include additionally AC3 track<br>
+   - Disable autocrop/set framerate/resolution manually<br>
+ - Support for PCM tracks (AC3 by default)<br>
+ - Only needs .NET 2.0<br>
+ 
 v0.4.7
  - Code rewrite to allow gui redesign later<br>
  - Fixed some bugs in stream selection<br>
