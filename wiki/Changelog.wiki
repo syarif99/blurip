@@ -1,3 +1,11 @@
+v0.4.9
+ - Improved subtitle handling<br>
+ - Improved index generation handling<br>
+ - Fixed bitrate calculation<br>
+ - Option to mux lowres subtitles (for popcorn players)<br>
+ - Fixed PCM track handling<br>
+ - Updated MediaInfo.dll<br>
+
 v0.4.8
  - Split almost all processing steps into seperate DLLs<br>
  - Support for 64 bit x264 using avs2yuv<br>
