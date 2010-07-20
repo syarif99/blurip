@@ -1,3 +1,18 @@
+v0.5.0 (2010/07/20)
+    - Complete GUI redesign<br>
+    - Skin support<br>
+    - Multilanguage support (english + german)<br>
+    - Support for PGS subtitles<br>
+    - Lots of minor bugfixes<br>
+    - Optional path for encoded video<br>
+    - Shutdown possible when not using queue<br>
+    - Prevent standby when running<br>
+    - Process step selection<br>
+    - Preferred language selection for audio and subtitles<br>
+    - Option to set forced flag in .mkv for first forced track<br>
+    - Compatible with latest 64-bit x264 build<br>
+    - Switched to .NET 4.0<br>
+
 v0.4.9
  - Improved subtitle handling<br>
  - Improved index generation handling<br>
