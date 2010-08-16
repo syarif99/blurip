@@ -1,3 +1,14 @@
+v0.5.1 (2010/08/16)
+
+    - Some minor GUI fixes (don't reset position on language change etc)<br>
+    - Option to disable mkvmerge header compression (for audio + video tracks)<br>
+    - Resize method selection<br>
+    - Edit functions for demuxed stream list<br>
+    - Option to edit AutoCrop values (crop, addborders, resize) by hand<br>
+    - Lots of minor bugfixes<br>
+    - Show expected size/bitrate in mainwindow when 2-pass profile selected<br>
+    - Compatible with latest DGDecNV<br>
+
 v0.5.0 (2010/07/20)
     - Complete GUI redesign<br>
     - Skin support<br>
