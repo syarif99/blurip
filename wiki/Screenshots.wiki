@@ -1,15 +1,9 @@
-Stream selection tab:
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/-ozqTlcdXg_lk-5rv5ADNw?feat=embedwebsite"><img src="http://lh4.ggpht.com/_NvtqqG41QeE/TLSblsLZaQI/AAAAAAAAAEU/cSbT6IWBud0/s800/main_input.png" height="800" width="800" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
 
-<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/CzTe9IXcYMXFRxoxjF_ljA?feat=embedwebsite"><img src="http://lh6.ggpht.com/_NvtqqG41QeE/S1miRnk2U2I/AAAAAAAAACo/bQkKlsO8xcM/s800/blurip_stream.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/PnlaoB2foE4VolrAo5K45Q?feat=embedwebsite"><img src="http://lh6.ggpht.com/_NvtqqG41QeE/TLSblz7yxVI/AAAAAAAAAEY/pAAfidhJDZg/s800/main_output.png" height="800" width="800" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
 
-Processing tab:
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/kfouBVKbMcWxrIlvi45C4A?feat=embedwebsite"><img src="http://lh3.ggpht.com/_NvtqqG41QeE/TLSbl1QP7sI/AAAAAAAAAEc/TOow9hdVJnw/s800/main_settings.png" height="800" width="800" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
 
-<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/mwVzwlPwj9IxUzyKmXn0aQ?feat=embedwebsite"><img src="http://lh4.ggpht.com/_NvtqqG41QeE/S1miR0PPAAI/AAAAAAAAACs/Pk-CMiBpKVw/s800/blurip_process.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/FX0VLUcS8H4slNgiEPcH8g?feat=embedwebsite"><img src="http://lh3.ggpht.com/_NvtqqG41QeE/TLSbmdrd3uI/AAAAAAAAAEg/UM8dmdQfrzc/s800/main_start.png" height="800" width="800" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
 
-Settings tab:
-
-<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/HW_ZeYWsLHL9gEu6L0FBZg?feat=embedwebsite"><img src="http://lh6.ggpht.com/_NvtqqG41QeE/S1miR5ddpgI/AAAAAAAAACw/_2THkEycJRw/s800/blurip_settings.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
-
-Encoding settings tab:
-
-<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/Qf6cBLqQTcVZvrT8KuS2pA?feat=embedwebsite"><img src="http://lh5.ggpht.com/_NvtqqG41QeE/S1miSDk_bII/AAAAAAAAAC0/TQsZggdcQB0/s800/blurip_encodingsettings.jpg" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/eYjpN05LbSUwpcnYBQXV3w?feat=embedwebsite"><img src="http://lh3.ggpht.com/_NvtqqG41QeE/TLSbmt806JI/AAAAAAAAAEk/wycaGdblnlc/s800/settings_stream.png" height="446" width="800" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Von <a href="http://picasaweb.google.com/blurip1080/BluRip?feat=embedwebsite">BluRip</a></td></tr></table>
